@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties version="2.0.0">
+  <Array key="CustomizedHighlightingRules">
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFCDBFAD" Italic="False" Language="C#" Name="MethodCall" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="EnumTypes" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="ValueTypes" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="DelegateTypes" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="TypeParameters" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="InterfaceTypes" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="ReferenceTypes" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="TypeKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="TrueFalse" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFFF007F" Italic="False" Language="C#" Name="GetSetAddRemove" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="Visibility" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFFF007F" Italic="False" Language="C#" Name="Modifiers" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="ParameterModifiers" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="ExceptionKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFFF007F" Italic="False" Language="C#" Name="QueryKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFFF007F" Italic="False" Language="C#" Name="GotoKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="Keywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="NullOrValueKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="ThisOrBaseReference" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFFF00FF" Italic="False" Language="C#" Name="NumberLiteral" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FF52E3F6" Italic="False" Language="C#" Name="ReferenceTypeKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="True" Foreground="#FFFF007F" Italic="False" Language="C#" Name="ValueTypeKeywords" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFECE47E" Italic="False" Language="C#" Name="String" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="{x:Null}" Bold="False" Foreground="#FFFFFFFF" Italic="False" Language="C#" Name="Comment" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Background="#00000000" Bold="False" Foreground="#FF999999" Italic="False" Language="C#" Name="Line numbers" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" />
+    </SerializedObject>
+    <SerializedObject>
+      <CustomizedHighlightingColor Language="{x:Null}" Background="#FF272822" Bold="False" Foreground="#FFCFBFAD" Italic="False" Name="Default text/background" Underline="False" xmlns="clr-namespace:ICSharpCode.AvalonEdit.AddIn;assembly=ICSharpCode.AvalonEdit.AddIn" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" />
+    </SerializedObject>
+  </Array>
+</Properties>
